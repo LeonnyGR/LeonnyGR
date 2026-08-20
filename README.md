@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonny Gonzaga Raiz 👋
+# Olá, eu sou o Leonny 👋
 
 Desenvolvedor Full Stack com foco no ecossistema PHP e arquiteturas sólidas. Apaixonado por código limpo, ambientes Linux e soluções eficientes de alto desempenho.
 
