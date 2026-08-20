@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a2f2a&height=200&section=header&text=Leonny%20Raiz&fontSize=50&fontColor=8fceb5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=c9d1d9" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=500&lines=+%7C+Full+Stack;Laravel+%2B+JS+%2B+Docker+%2B+Oracle;React JS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=500&lines=+%7C+Full+Stack;Laravel+%2B+JS+%2B+Docker+%2B+Oracle+%2B+React JS" alt="Typing SVG" />
 
 <br><br>
 
@@ -32,7 +32,7 @@
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/JQuery-E34F26?style=flat-square&logo=jquery&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-1572B6?style=flat-square&logo=react&logoColor=white" />
 
 **Banco de Dados & Infra**
 <br>
