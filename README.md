@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a2f2a&height=200&section=header&text=Leonny%20Raiz&fontSize=50&fontColor=8fceb5&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descColor=c9d1d9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1a2f2a&height=200&section=header&text=Leonny%20Raiz&fontSize=50&fontColor=8fceb5&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer&descAlignY=55&descColor=c9d1d9" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=550&lines=Dev+Full+Stack;Laravel+%2BReact+%2B+JS+%2B+Docker+%2B+Linux+%2B+Oracle;%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8FCEB5&center=true&vCenter=true&width=550&lines=Software+Engineer;Laravel+%2BReact+%2B+JS+%2B+Docker+%2B+Linux+%2B+Oracle;%22" alt="Typing SVG" />
 
 <br><br>
 
